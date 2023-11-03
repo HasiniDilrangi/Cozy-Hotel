@@ -11,7 +11,7 @@
                 <div class="py-12">
                     <section class="">
                       <div class="py-8 px-4 mx-auto max-w-2xl lg:py-16">
-                          <h2 class="mb-4 text-xl font-bold text-gray-900 dark:text-white">Add a New Room</h2>
+                          <h2 class="mb-4 text-xl font-bold text-gray-900 dark:text-white">Create Reservation</h2>
                           <form action="#">
                               <div class="grid gap-4 sm:grid-cols-2 sm:gap-6">
                                   <div class="sm:col-span-2">
