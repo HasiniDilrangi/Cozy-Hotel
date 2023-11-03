@@ -37,5 +37,5 @@ Route::get('/createreservation', function () {
     return view('create-reservation');
 });
 Route::get('/showroom', function () {
-    return view('show-room');
+    return view('show-rooms');
 });
